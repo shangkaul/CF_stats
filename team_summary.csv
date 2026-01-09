@@ -1,0 +1,8 @@
+metric,value
+total_prs,280
+unique_repos,24
+total_additions,23456
+total_deletions,8384
+net_change,15072
+average_pr_size,113.7
+median_time_to_merge_hours,0.34194444444444444

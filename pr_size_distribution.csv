@@ -1,0 +1,6 @@
+size_category,min_lines,max_lines,count,percentage
+Tiny,0,10,106,37.9
+Small,11,50,82,29.3
+Medium,51,200,55,19.6
+Large,201,500,24,8.6
+X-Large,501,999999,13,4.6
